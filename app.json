@@ -1,0 +1,9 @@
+{
+  "name": "mtproxy",
+  "description": "deploy mtproxy to Heroku.",
+  "keywords": ["mtproxy"],
+  
+  "website": "https://github.com/TelegramMessenger/MTProxy",
+  "repository": "https://github.com/TelegramMessenger/MTProxy",
+  "stack": "container"
+ }
